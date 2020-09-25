@@ -13,4 +13,4 @@ Steps to use the bot<br/>
 
 
 ## UI of the app
-![UI of the image](pizza-ordering-bot-master/images/UI.png)
+![UI of the image](pizza-ordering-bot-master/client/images/UI.png)
