@@ -12,3 +12,5 @@ Steps to use the bot<br/>
 7. You can also ask the status of your pizza
 
 
+## UI of the app
+![UI of the image](pizza-ordering-bot-master/images/UI.png)
